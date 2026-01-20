@@ -44,6 +44,6 @@ The analysis integrates multiple categories of upstream risk indicators, includi
 - This content is shared **solely for academic and portfolio demonstration purposes** and fully complies with NDA requirements  
 
 ## Repository Contents
-- 📄 Final Capstone Poster  
+- Final Capstone Poster  
 <img width="2151" height="1439" alt="image" src="https://github.com/user-attachments/assets/2de7e4b3-04ef-4ee8-b718-ad1921e99f75" />
 
